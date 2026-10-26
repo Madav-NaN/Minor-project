@@ -198,4 +198,10 @@ This repository is maintained by the CrewAI team. Check individual examples for 
 <ul>
   <li><a href="https://github.com/crewAIInc/crewAI"><strong>CrewAI Framework</strong></a> — Main CrewAI repository.</li>
   <li><a href="https://github.com/crewAIInc/crewAI-cookbook"><strong>CrewAI Cookbook</strong></a> — Feature-focused tutorials and guides.</li>
-  <li><a href="https://docs.cre
+  <li><a href="https://docs.crewai.com/"><strong>CrewAI Documentation</strong></a> — Comprehensive documentation.</li>
+  <li><a href="https://community.crewai.com/"><strong>CrewAI Community</strong></a> — Join community discussions.</li>
+</ul>
+
+<p align="center">
+  ⭐ If you find these examples helpful, consider starring the repository!
+</p>
